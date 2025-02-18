@@ -1,5 +1,11 @@
-<h1>Hi, I'm Angelo! <br/>
+<h1>Hi, I'm Angelo!</h1>
+I'm a Systems Engineer at Microsoft Lab Services, where I handle deployments, networking, and collaborate with customers to deliver top-tier solutions.<br/> <br/>   
 
+I graduated with a **Bachelor's of Science in Computer Science** from **Pacific Lutheran University**, and my passion for technology has led me to dive deep into the world of **cybersecurity**.  <br/>  
+
+I’m currently expanding my skills with hands-on projects and certifications, aiming to transition into a **cybersecurity role**, particularly in security operations and analysis.  <br/>  
+
+I'm passionate about all things tech, feel free to reach out - I'd love to connect! <br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Security Operations Center (SOC) Lab</b>
