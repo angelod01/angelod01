@@ -8,8 +8,10 @@ I’m currently expanding my skills with hands-on projects and certifications, a
 I'm passionate about all things tech, feel free to reach out - I'd love to connect! <br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Home Security Operations Center (SOC) Lab</b>
+- <b>Security Operations Center (SOC) Lab</b>
   - [Home SOC using Azure](https://github.com/angelod01/Win10-Home-SOC-Lab)
+- <b>Autonomous RC Car</b>
+  - [Autonomous RC Car](https://github.com/angelod01/Autonomous-RC-Car)
 
 <h2>📄 Certifications</h2>
 
