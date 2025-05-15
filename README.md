@@ -16,7 +16,7 @@ I'm passionate about all things tech, feel free to reach out - I'd love to conne
 <h2>📄 Certifications</h2>
 
 <a href="https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst?msockid=34743367fb6a66010ea02660faad6700">Microsoft Cybersecurity Professional Analyst</a><br/>
-<a href="https://www.comptia.org/certifications/security">CompTIA Security+ (WIP ➡️ Expected March 2025)</a>
+<a href="https://www.credly.com/badges/b5bc677b-160c-47e9-b14c-e833978cd295/linked_in_profile">CompTIA Security+ ce</a>
 
 <h2> 🤳 Connect with me:</h2>
 
