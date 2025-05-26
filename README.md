@@ -1,4 +1,6 @@
-# Hello, I'm Angelo!  
+
+<h1>Hello, I'm Angelo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" style="width: 32px; height: 32px; vertical-align: middle;" /></h1>
+
 <a href="https://www.linkedin.com/in/angelo-ramos-2a940422a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:angelo_d_ramos@proton.me" style="outline: none;"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -13,11 +15,12 @@ I learn best by doing, so below are some of the projects and skills I focus on d
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">SOC Home Lab</a>|
-| Scripting and Automation for Threat Mitigation| <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">SOC Home Lab</a>|
+| SIEM implementation and log analysis          | <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">SOC Home Lab</a>|
+| Scripting and automation for threat mitigation| <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">SOC Home Lab</a>|
 | Systems integration and networking            | <a href="https://github.com/angelod01/Autonomous-RC-Car">RC Car</a>|
 | Threat modeling and attack surface awareness  | <a href="https://github.com/angelod01/Autonomous-RC-Car">RC Car</a>|
 | Secure programming and scripting              | <a href="https://github.com/angelod01/Autonomous-RC-Car">RC Car</a>|
+| Backtracking algorithm design                 | <a href="https://github.com/angelod01/soduku-solver">Soduku Solver</a>|
 
 ## Tools
 
