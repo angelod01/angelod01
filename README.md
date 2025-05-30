@@ -8,18 +8,27 @@
 
 I am a graduate from Pacific Lutheran University with my bachelor's in **computer science**. I have 2 years of experience working in IT and bring skills across several domains including <ins>software engineering</ins>, <ins>networking</ins>, and <ins>cybersecurity</ins>.
 
-I learn best by doing, so below are some of the projects and skills I focus on during my free time.
+I learn best by doing, so below are some of the projects and skills I focus on during my free time, grouped by type.
 
 
-## Projects
+## InfoSec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM implementation and log analysis          | <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">SOC Home Lab</a>|
 | Scripting and automation for threat mitigation| <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">SOC Home Lab</a>|
+
+## Networking
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
 | Systems integration and networking            | <a href="https://github.com/angelod01/Autonomous-RC-Car">RC Car</a>|
 | Threat modeling and attack surface awareness  | <a href="https://github.com/angelod01/Autonomous-RC-Car">RC Car</a>|
 | Secure programming and scripting              | <a href="https://github.com/angelod01/Autonomous-RC-Car">RC Car</a>|
+
+## Scripting & More
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
 | Backtracking algorithm design                 | <a href="https://github.com/angelod01/soduku-solver">Soduku Solver</a>|
 
 ## Tools
