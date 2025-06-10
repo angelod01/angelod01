@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/angelo-ramos-2a940422a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:angelo_d_ramos@proton.me" style="outline: none;"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/NitroCx.png" alt="Your Image Badge" />
 
 I am a graduate from Pacific Lutheran University with my bachelor's in **computer science**. I have 2 years of experience working in IT and bring skills across several domains including <ins>software engineering</ins>, <ins>networking</ins>, and <ins>cybersecurity</ins>.
 
