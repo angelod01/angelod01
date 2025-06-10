@@ -15,8 +15,9 @@ I learn best by doing, so below are some of the projects and skills I focus on d
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM implementation and log analysis          | <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">SOC Home Lab</a>|
-| Scripting and automation for threat mitigation| <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">SOC Home Lab</a>|
+| SIEM implementation and log analysis          | <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">Home Lab</a>|
+| Scripting and automation for threat mitigation| <a href="https://github.com/angelod01/Win10-Home-SOC-Lab">Home Lab</a>|
+| Port scanning for vulnerability assessments   | <a href="https://github.com/angelod01/port-scanner">Port Scanner</a>  |
 
 ## Networking
 
