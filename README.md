@@ -1,11 +1,11 @@
 
 <h1>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" style="width: 32px; height: 32px; vertical-align: middle;" /></h1>
 
-My name is Angelo and I'm a security-focused IT professional. I'm utilizing this as a place to showcase some of things I work on in my free time. Feel free to poke around while you're here!
+My name is Angelo and I'm a security-focused IT professional. I've been working in the field for more than 2 years and I currently do **IAM** at [Columbia Bank](https://www.columbiabank.com/). I'm utilizing this as a place to showcase some of things I work on in my free time. Feel free to poke around while you're here!
 
-## About me & socials
+## Socials
 
-<a href="https://angelod01.github.io" style="outline: none;"><img src="https://img.shields.io/badge/-Detailed%20About%20Me-008000?&style=for-the-badge&logoColor=white"/></a>
+<!-- <a href="https://angelod01.github.io" style="outline: none;"><img src="https://img.shields.io/badge/-Detailed%20About%20Me-008000?&style=for-the-badge&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/angelo-ramos-2a940422a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:angelo_d_ramos@proton.me" style="outline: none;"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -26,10 +26,11 @@ My name is Angelo and I'm a security-focused IT professional. I'm utilizing this
 |-----------------------------------------------|----------------------------|
 | Autonomous RC car engineering and development | <a href="https://github.com/angelod01/Autonomous-RC-Car">RC Car</a>|
 
-### Scripting & More
+### Administration & More
 
 | Description                                   | Project         |
 |-----------------------------------------------|----------------------------|
+| Linux administration                          | <a href="https://github.com/angelod01/linux-homelab">Linux Homelab</a>
 | Backtracking algorithm design                 | <a href="https://github.com/angelod01/soduku-solver">Soduku Solver</a>|
 
 ## Certifications
